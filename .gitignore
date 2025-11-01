@@ -1,0 +1,17 @@
+# Ignore data and environment files
+data/
+*.csv
+*.json
+*.xlsx
+*.pkl
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.env/
+.venv/
